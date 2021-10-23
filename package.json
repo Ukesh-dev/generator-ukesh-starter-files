@@ -1,6 +1,6 @@
 {
-  "name": "generator-ukesh-starter-files",
-  "version": "1.0.0",
+  "name": "generator-ukesh-gulp-sass-boilerplate",
+  "version": "1.0.7",
   "description": "Generates a scaffolding for a front-end workflow with Gulp and Sass",
   "main": "index.js",
   "dependencies": {
@@ -11,8 +11,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ukesh-dev/generator-ukesh-starter-files.git"
+    "url": "https://github.com/thecodercoder/generator-gulp-sass-boilerplate.git"
   },
-  "author": "Ukesh Shrestha",
+  "author": "thecodercoder",
   "license": "ISC"
 }
