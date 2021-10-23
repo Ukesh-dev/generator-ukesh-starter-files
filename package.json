@@ -1,5 +1,5 @@
 {
-  "name": "generator-ukesh-gulp-sass-boilerplate",
+  "name": "generator-ukesh-starter-files",
   "version": "1.0.7",
   "description": "Generates a scaffolding for a front-end workflow with Gulp and Sass",
   "main": "index.js",
