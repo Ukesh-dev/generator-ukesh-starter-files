@@ -11,8 +11,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/thecodercoder/generator-gulp-sass-boilerplate.git"
+    "url": "https://github.com/Ukesh-dev/generator-ukesh-starter-files.git"
   },
-  "author": "thecodercoder",
+  "author": "Ukesh Shrestha",
   "license": "ISC"
 }
