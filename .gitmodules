@@ -1,3 +1,3 @@
-[submodule "generators/app/templates"]
-	path = generators/app/templates
-	url = https://github.com/Ukesh-dev/gulp-sass-generator
+[submodule "generators/app/template"]
+	path = generators/app/template
+	url = https://github.com/Ukesh-dev/gulp-sass-generator.git
